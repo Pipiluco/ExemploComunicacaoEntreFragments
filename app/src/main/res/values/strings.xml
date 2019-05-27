@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Exemplo Comunicacao Entre Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="titulos">
+        <item>Gol</item>
+        <item>Corsa</item>
+        <item>Chevete</item>
+        <item>Pampa</item>
+        <item>Uno</item>
+    </string-array>
+
+    <string-array name="descrip">
+        <item>Gandalf, por vezes Gandalf, o Cinzento ou Gandalf, o Branco é um personagem fictício das obras do autor e filólogo britânico J. R. R. Tolkien</item>
+        <item>Aragorn II, filho de Arathorn é um personagem fictício criado pelo professor e filólogo britânico J. R. R. Tolkien em sua obra O Senhor dos Anéis, onde é um dos protagonistas.</item>
+        <item>Legolas Greenleaf, dentro do universo de fantasia criado pelo escritor J.R.R. Tolkien, foi um elfo Sindar, filho de Thranduil, rei da Floresta das Trevas. Em 3019 da Terceira Era, Legolas foi a Valfenda como mensageiro dos elfos de sua terra.</item>
+        <item>Gimli é um dos mais importantes personagens criados por J.R.R.Tolkien para a trilogia O Senhor dos Anéis. Era um anão do povo de Durin que se habilitou para acompanhar Frodo Bolseiro na Sociedade do Anel, que tinha por intuito destruir o Um Anel.</item>
+        <item>Arwen Undómiel é uma personagem fictícia nas obras de J. R. R. Tolkien. Ela aparece em seu romance, O Senhor dos Anéis, normalmente publicado em três volumes. Arwen é uma dos Meio-Elfos que viveram durante a Terceira Era. Era extremamente parecida com Lúthien Tinúviel, de quem era parente, e conheceu Aragorn na floresta de Rivendell enquanto caminhava. </item>
+    </string-array>
+</resources>
